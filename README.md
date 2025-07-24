@@ -1,1 +1,1 @@
-# redux-countries-refactoring
+# redux-countries
